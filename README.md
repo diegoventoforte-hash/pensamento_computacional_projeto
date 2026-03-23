@@ -30,8 +30,8 @@ O projeto foi construído utilizando conceitos fundamentais de Python, sem a nec
 ## 📋 Como Executar
 
 1. Certifique-se de ter o **Python 3.x** instalado.
-2. Baixe o arquivo ``.
+2. Baixe o arquivo `http://projeto_app_hamburgueria.py/`.
 3. Abra o terminal ou prompt de comando.
 4. Execute o comando:
    ```bash
-   python projeto_app_hambugueria.py
+   python http://projeto_app_hamburgueria.py/
